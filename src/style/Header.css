@@ -1,0 +1,9 @@
+.header{
+    font-family: 'Alegreya Sans SC', sans-serif;
+    font-weight: bolder;
+    border-bottom: 1px solid #dfdcdc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
